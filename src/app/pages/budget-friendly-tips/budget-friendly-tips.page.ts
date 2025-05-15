@@ -13,7 +13,8 @@ export class BudgetFriendlyTipsPage implements OnInit {
 
   constructor() { }
 
-  ngOnInit() {
+    ngOnInit() {
+    console.log('BudgetFriendlyTipsPage initialized!');
+ 
   }
-
 }
