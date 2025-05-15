@@ -1,0 +1,7 @@
+{
+  "name": "TravellingTipsApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
